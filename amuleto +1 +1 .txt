@@ -2,3 +2,9 @@ amuleto +1 +1
 
 x1 has a conqueror influence 50c
 x6 fracture beast 100c
+x8 row 205c
+x3 cold scarcer 3c
+x3 fire 3c
+x3 lightning 3c
+x2 gem modif 500% 30c
+
